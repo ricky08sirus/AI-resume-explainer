@@ -10,7 +10,8 @@ const payload = {
     {
       agentId: "a4b1da07-57b0-4de8-8a65-2d5049e5a60a",
       conversationType: "telephony",
-      toPhoneNumber: "+919680890562",
+      toPhoneNumber: "+918296276281", //this is my phone number replace this with yours
+
       dynamicVariables: {
         name: "John Doe",
       },
