@@ -27,6 +27,7 @@ Install all required packages:
 npm install
 
 This reads the `package.json` and installs dependencies, including `axios` or other HTTP clients used.
+Also change your phone number to the Phone Number of your choice with the country code .
 
 ---
 
